@@ -12,7 +12,5 @@ namespace SuperforcastingHelper
             PredictionApp predictionApp = new PredictionApp(predictionRepository);
             predictionApp.Run();
         }
-
-
     }
 }
