@@ -1,4 +1,4 @@
-# superforecastinghelper
+# SuperforecastingHelper
 A .NET cross platform console tool for recording predictions and calculating Brier Scores. Predictions and Score - Stored in local Sqlitedb (flat file).
 
 ## Brier Score
