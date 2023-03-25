@@ -17,6 +17,8 @@ The Brier score ranges from 0 to 1, with lower values indicating more accurate p
 
 
 ## Superforecasting and GJP
+[Good Judment Open](https://www.gjopen.com/challenges/71-in-the-news-2023)
+
 The Good Judgment Project (GJP) is a research initiative that focuses on the study and improvement of forecasting and decision-making abilities. It was launched in 2011 by psychologists and decision scientists Philip Tetlock, Barbara Mellers, and other colleagues. The project gained prominence as part of the Intelligence Advanced Research Projects Activity's (IARPA) Aggregative Contingent Estimation (ACE) program, which aimed to enhance the accuracy of intelligence forecasts.
 
 The Good Judgment Project relied on the "wisdom of the crowd" principle, utilizing a large and diverse pool of participants (called "superforecasters") to make predictions about various geopolitical, economic, and other events. These individuals were selected through a series of forecasting tournaments, where they demonstrated exceptional accuracy and consistency in their predictions.
