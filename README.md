@@ -1,5 +1,5 @@
 # superforecastinghelper
-A console tool for recording predictions and calculating Brier Scores. Stored in local Sqlitedb (flat file).
+A .NET cross platform console tool for recording predictions and calculating Brier Scores. Predictions and Score - Stored in local Sqlitedb (flat file).
 
 ## Brier Score
 The Brier score, named after Glenn W. Brier, is a metric used to evaluate the accuracy of probabilistic predictions. It is commonly used in the context of forecasting, including in the evaluation of superforecasters.
